@@ -40,3 +40,16 @@
 #Extraweight{
     background-color: red;
 }
+
+.calculatebtn{
+    border: none;
+    background-color: cadetblue;
+    height: 30px;
+    width: 90px;
+    border-radius: 45px;
+    margin:10px;
+}
+
+.calculatebtn:hover{
+    background: linear-gradient(to right, red, orange);
+}
