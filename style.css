@@ -1,3 +1,7 @@
+#body{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
 #cal{
     background-color: grey;
     width: 600px;
@@ -19,10 +23,16 @@
 
 .col-4{
     background-color: grey;
+    padding-top: 20px;
 }
 
 .col-8{
     background-color: green;
+    padding-top: 20px;
+}
+
+.col-3{
+    padding-top: 11px;
 }
 
 #Underweight{
@@ -52,4 +62,12 @@
 
 .calculatebtn:hover{
     background: linear-gradient(to right, red, orange);
+}
+
+.weight{
+    margin: 10px;
+}
+
+.height{
+    margin: 10px;
 }
